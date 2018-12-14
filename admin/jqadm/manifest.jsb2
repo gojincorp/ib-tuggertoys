@@ -1,0 +1,22 @@
+{
+	"projectName": "ib-tuggertoys",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "ib-tuggertoys CSS",
+		"file": "ib-tuggertoys.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "ib-tuggertoys JS",
+		"file": "ib-tuggertoys.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
